@@ -17,15 +17,11 @@ $$a \oplus b = x \land y$$
 Ensure you have Python 3.12+ installed. Install the required dependencies using the provided requirements file:
 
 ```
-```
 ```bash
 pip install -r requirements.txt
 ```
 
-
-```
 ## run
-
 ```
 ```
 python3 quantum.py
